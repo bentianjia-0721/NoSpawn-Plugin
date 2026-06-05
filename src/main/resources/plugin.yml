@@ -1,0 +1,30 @@
+name: NoSpawn
+version: "${version}"
+main: com.bentianjia.nospawn.NoSpawnPlugin
+api-version: "1.21"
+description: Disable selected mob spawns with in-game commands.
+authors: [bentianjia]
+contributors: [ZURAN_]
+website: https://github.com/bentianjia/NoSpawn-Plugin
+
+commands:
+  nospawn:
+    description: Manage disabled mob spawns
+    usage: /nospawn [add|remove] <mob_id>
+    aliases: [ns]
+    permission: nospawn.use
+    permission-message: You do not have permission to use this command.
+
+permissions:
+  nospawn.use:
+    description: Allows listing disabled mob types
+    default: op
+  nospawn.add:
+    description: Allows adding mob types to the disabled list
+    default: op
+  nospawn.remove:
+    description: Allows removing mob types from the disabled list
+    default: op
+  nospawn.admin:
+    description: Grants access to all NoSpawn commands
+    default: op
