@@ -4,7 +4,7 @@
 
 NoSpawn 是一个 Paper 插件，可通过游戏内命令禁用指定生物类型的生成。适用于服务器管理、模组包平衡、自定义地图以及任何需要精确控制生物生成的场景。
 
-这是 [Fabric NoSpawn 模组](https://github.com/bentianjia/NoSpawn) 的 Paper 插件版本。
+这是 [Fabric NoSpawn 模组](https://github.com/bentianjia-0721/NoSpawn) 的 Paper 插件版本。
 
 ## 特性
 
