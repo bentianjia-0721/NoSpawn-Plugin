@@ -4,7 +4,7 @@ Language: **English** | [简体中文](README.zh-CN.md)
 
 NoSpawn is a Paper plugin that disables spawning for selected mob types using in-game commands. It is useful for server management, modpack balancing, custom maps, and any setup that needs precise control over mob spawning.
 
-This is a Paper plugin port of the [Fabric NoSpawn mod](https://github.com/bentianjia/NoSpawn).
+This is a Paper plugin port of the [Fabric NoSpawn mod](https://github.com/bentianjia-0721/NoSpawn).
 
 ## Features
 
